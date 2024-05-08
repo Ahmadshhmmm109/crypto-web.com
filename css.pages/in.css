@@ -1,0 +1,216 @@
+body{
+    background:url("../logo.background/website.background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+    /*
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    /*font-family:Helvetica, sans-serif;font-family:  Trebuchet;*/
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    /*
+     background-color:#ffbf00;
+    position: sticky;
+    top: 0;
+  */
+
+    
+  
+}
+#logoo{
+    margin-top: 3.26%;
+    margin-left: 4%;
+    width: 4%;
+    height: 8%;
+    float: left;
+}
+ul{
+    list-style-type: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+#c{
+    margin-left:22%;
+}
+#logoo{
+    margin-top: 3.26%;
+    margin-left: 4%;
+    width: 4%;
+    height: 8%;
+    float: left;
+}
+ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+ul li{
+    margin-top: 4%;
+    display: inline-block;
+    margin-left:7%;
+    margin-right: auto;
+    color: aliceblue;
+    
+    
+    
+}
+ul li:hover{
+    /*background-color: rgb(240, 156, 47);*/
+    background-color: purple;
+    
+    /*border: #ffbf00 thin 5%;*/
+    border: purple thin 5%;
+    border-radius: 4%;
+    
+   
+
+}
+ul li a:hover{
+    text-decoration:underline;
+
+}
+h2{
+    font-size: 1.6em;
+    color: #ffbf00;
+}
+h1{
+    
+    font-size: 2em;
+    margin-top: 5%;
+    color: aliceblue;
+}
+p{
+    font-size: 1em;
+    color: #ffbf00;
+    width: 25%;
+}
+h1,h2,p{
+    
+    margin-left: 14%;
+   
+}
+#p11{
+    float:right;
+    margin-right: 15%;
+    padding-bottom: 4%;
+    height: 15%;
+    width: 30%;
+}
+
+
+
+footer{
+  
+    width: 100%;
+    background-color: #d3a20f;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-weight: 200;
+   
+}
+#contact{
+    
+    margin: 1%;
+    margin-left: 2%;
+    padding-bottom: 1%;
+}
+
+.ss{
+    padding-top: 2%;
+   
+   padding-left: 3%;
+     /*padding-bottom: 2%;*/
+     margin-bottom: 0px;
+     width: 20px;
+     height: 20px;
+}
+
+
+#insta,#face,#you,#tik{
+    color: black;
+    width:30px;
+    height:30px;
+}
+#contact p{
+    color: black;
+  
+    margin-left: 0px;
+
+}
+
+
+@media only screen and (max-width:767px){
+    #c{
+        margin-left: 10%;
+    }
+    p{
+        width:55% ;
+        height: 6em;
+        margin-bottom: 2%;
+        
+    }
+    #top{
+        margin-top: 4%;
+    }
+    #logoo{
+        margin-top: 5%;
+
+    }
+    #p11{
+        float: left;
+        margin-left: 7.8em;
+        width: 50%;
+        
+    }
+
+    
+#logoo{
+    height: 5%;
+    width: 10%;
+}
+#c{
+    margin-left: 2%;
+}
+#top{
+    padding-top: 1em;
+}
+
+
+
+footer{
+    margin-top: 5em;
+    
+    
+  
+    width: 100%;
+    background-color: #d3a20f;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-weight: 200;
+   
+}
+.ss{
+    
+    padding-left: 2%;
+   padding-left: 3%;
+   padding-top: 0%;
+   margin-top: 0%;
+ 
+   width: 25px;
+   
+   color: black;
+}
+#contact{
+    padding-left: 3%;
+    margin: 1%;
+    padding-bottom: 1%;
+}
+#d1{
+    padding-bottom: 2em;
+}
+
+
+
+    
+
+}
